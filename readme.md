@@ -138,4 +138,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 
 [spring-petclinic-rest]: https://github.com/spring-petclinic/spring-petclinic-rest
 
-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
+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
